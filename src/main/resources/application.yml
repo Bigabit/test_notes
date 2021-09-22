@@ -1,0 +1,10 @@
+server:
+  port: 8091
+
+spring:
+  application:
+    name: notes-service
+  mongodb:
+    host: localhost
+    port: 27017
+    db: notes
